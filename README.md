@@ -7,22 +7,6 @@
 
 - 🔭 I’m currently working on **flutter chatgpt**
 
-- 🌱 I’m currently learning **flutter, prompt eng**
-
-- 👯 I’m looking to collaborate on **NLP, AI, prompt eng.**
-
-- 🤝 I’m looking for help with **prompt eng.**
-
-- 👨‍💻 All of my projects are available at [SECRET](SECRET)
-
-- 📝 I regularly write notion on [https://ssifood.notion.site/AI-8a8c39134f2f4c5680424e5c46797ccc](https://ssifood.notion.site/AI-8a8c39134f2f4c5680424e5c46797ccc)
-
-- 💬 Ask me about **nlp, AICC DOMAIN**
-
-- 📫 How to reach me **ssifood@naver.com**
-
-- 📄 Know about my experiences [SECRET](SECRET)
-
 - ⚡ Fun fact **I think thiknig a lot INTJ person.**
 
 <h3 align="left"> the poem named book-a that i impressed : 북어 - 최승호</h3>
